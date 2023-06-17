@@ -1,0 +1,12 @@
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\obj\Debug\net6.0\AuthGEO.csproj.AssemblyReference.cache
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\obj\Debug\net6.0\AuthGEO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\obj\Debug\net6.0\AuthGEO.AssemblyInfoInputs.cache
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\obj\Debug\net6.0\AuthGEO.AssemblyInfo.cs
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\obj\Debug\net6.0\AuthGEO.csproj.CoreCompileInputs.cache
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\bin\Debug\net6.0\AuthGEO.deps.json
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\bin\Debug\net6.0\AuthGEO.dll
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\bin\Debug\net6.0\AuthGEO.pdb
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\obj\Debug\net6.0\AuthGEO.dll
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\obj\Debug\net6.0\refint\AuthGEO.dll
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\obj\Debug\net6.0\AuthGEO.pdb
+C:\Users\skavlashvili\Desktop\Auth\AuthGEO\obj\Debug\net6.0\ref\AuthGEO.dll
